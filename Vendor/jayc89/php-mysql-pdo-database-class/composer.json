@@ -1,0 +1,20 @@
+{
+	"name": "jayc89/php-mysql-pdo-database-class",
+	"type": "class",
+	"description": "PHP PDO MySQL Wrapper",
+    	"keywords": ["pdo", "mysql"],
+    	"homepage": "http://github.com/JayC89/php-mysql-pdo-database-class",
+    	"license": "MIT",
+    	"authors": [
+       		{
+        		"name": "Jamie Cressey",
+        		"email": "jamiecressey89@gmail.com"
+        	}
+        ],
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"autoload": {
+		"files": ["Db.class.php"]
+	}
+}

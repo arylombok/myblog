@@ -1,0 +1,13 @@
+{
+    "name": "avz/ptable",
+    "description": "PHP (HTML) Table.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mayendra Costanov",
+            "email": "anov.siradj@gin.co.id"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

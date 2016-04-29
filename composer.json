@@ -1,0 +1,6 @@
+{
+    "require": {
+        "avz/ptable": "~1.0",
+        "jayc89/php-mysql-pdo-database-class": "^2.0"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "3a9a9164c4f66718cd8a1ca924f14170",
+    "content-hash": "b62a0e097a0f767fd42ca2e9ebfa6416",
+    "packages": [
+        {
+            "name": "avz/ptable",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/anovsiradj/PTable.git",
+                "reference": "cc58985de473748f1c1cce947c075dcbdb8eebe1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/anovsiradj/PTable/zipball/cc58985de473748f1c1cce947c075dcbdb8eebe1",
+                "reference": "cc58985de473748f1c1cce947c075dcbdb8eebe1",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mayendra Costanov",
+                    "email": "anov.siradj@gin.co.id"
+                }
+            ],
+            "description": "PHP (HTML) Table.",
+            "time": "2016-03-18 04:15:22"
+        },
+        {
+            "name": "jayc89/php-mysql-pdo-database-class",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/JamieCressey/php-mysql-pdo-database-class.git",
+                "reference": "2eef88a4e1bd6134630792c775c8b3cb3cf5f8ac"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/JamieCressey/php-mysql-pdo-database-class/zipball/2eef88a4e1bd6134630792c775c8b3cb3cf5f8ac",
+                "reference": "2eef88a4e1bd6134630792c775c8b3cb3cf5f8ac",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "class",
+            "autoload": {
+                "files": [
+                    "Db.class.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jamie Cressey",
+                    "email": "jamiecressey89@gmail.com"
+                }
+            ],
+            "description": "PHP PDO MySQL Wrapper",
+            "homepage": "http://github.com/JayC89/php-mysql-pdo-database-class",
+            "keywords": [
+                "mysql",
+                "pdo"
+            ],
+            "time": "2014-10-19 09:52:52"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

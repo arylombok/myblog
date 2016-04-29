@@ -1,0 +1,70 @@
+[18-Apr-2016 15:35:31 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148
+[18-Apr-2016 15:35:33 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148
+[18-Apr-2016 15:35:33 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148
+[18-Apr-2016 15:35:34 Asia/Jakarta] Uncaught exception :'PDOException'with message 'SQLSTATE[HY000] [335544472] Your user name and password are not defined. Ask your database administrator to set up a Firebird login.'
+Stack trace : #0 D:\wamp64\www\myblog\Core\Model.php(24): PDO->__construct('firebird:host=l...', 'root', '')
+#1 D:\wamp64\www\myblog\App\Models\Blog_M.php(25): Core\Model::getDB()
+#2 D:\wamp64\www\myblog\App\Controllers\Blog.php(21): App\Models\Blog_M::getAll()
+#3 [internal function]: App\Controllers\Blog->indexAction()
+#4 D:\wamp64\www\myblog\Core\Controller.php(37): call_user_func_array(Array, Array)
+#5 D:\wamp64\www\myblog\Core\Router.php(133): Core\Controller->__call('index', Array)
+#6 D:\wamp64\www\myblog\Core\Router.php(133): App\Controllers\Blog->index()
+#7 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('blog')
+#8 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Model.php' on line24
+[18-Apr-2016 15:35:34 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148
+[18-Apr-2016 15:35:36 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148
+[18-Apr-2016 15:35:36 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148
+[18-Apr-2016 15:35:37 Asia/Jakarta] Uncaught exception :'PDOException'with message 'SQLSTATE[HY000] [335544472] Your user name and password are not defined. Ask your database administrator to set up a Firebird login.'
+Stack trace : #0 D:\wamp64\www\myblog\Core\Model.php(24): PDO->__construct('firebird:host=l...', 'root', '')
+#1 D:\wamp64\www\myblog\App\Models\Blog_M.php(25): Core\Model::getDB()
+#2 D:\wamp64\www\myblog\App\Controllers\Blog.php(21): App\Models\Blog_M::getAll()
+#3 [internal function]: App\Controllers\Blog->indexAction()
+#4 D:\wamp64\www\myblog\Core\Controller.php(37): call_user_func_array(Array, Array)
+#5 D:\wamp64\www\myblog\Core\Router.php(133): Core\Controller->__call('index', Array)
+#6 D:\wamp64\www\myblog\Core\Router.php(133): App\Controllers\Blog->index()
+#7 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('blog')
+#8 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Model.php' on line24
+[18-Apr-2016 15:35:37 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148
+[18-Apr-2016 15:35:39 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148
+[18-Apr-2016 15:35:39 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148
+[18-Apr-2016 15:35:40 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148
+[18-Apr-2016 15:35:41 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148
+[18-Apr-2016 15:36:59 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(94): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line148

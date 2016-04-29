@@ -1,0 +1,20 @@
+[26-Apr-2016 09:15:19 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(78): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line149
+[26-Apr-2016 09:15:21 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(78): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line149
+[26-Apr-2016 09:16:41 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(78): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line149
+[26-Apr-2016 09:17:28 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(78): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line149
+[26-Apr-2016 09:17:48 Asia/Jakarta] Uncaught exception :'Exception'with message 'No route matched'
+Stack trace : #0 D:\wamp64\www\myblog\Public\index.php(78): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'D:\wamp64\www\myblog\Core\Router.php' on line149
