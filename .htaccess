@@ -1,6 +1,6 @@
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^curut.com$ [NC,OR]
-RewriteCond %{HTTP_HOST} ^www.curut.com$
+RewriteCond %{HTTP_HOST} ^https://lohan.herokuapp.com$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^https://www.lohan.herokuapp.com$
 RewriteCond %{REQUEST_URI} !Public/
 RewriteRule (.*) /Public/$1 [L]
 
